@@ -1,1 +1,3 @@
-shell_basics
+#!/bin/bash
+‘shell_basics’
+
